@@ -64,4 +64,17 @@ int main()
 ```  
 > 第一层
 > >第二层
-> 的
+>detai 的
+<details>
+
+
+<summary>        
+  
+  ### Markdown
+</summary>
+Want to ruin the surprise?
+Well, you asked for it!
+\```{r}
+plot(pressure)
+\```
+</details>
