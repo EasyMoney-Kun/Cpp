@@ -218,3 +218,10 @@
   * [写文件](c++核心编程/5.%20文件操作/5.2%20二进制文件/60%20写文件/60.cpp)
   * [读文件](c++核心编程/5.%20文件操作/5.2%20二进制文件/61%20读文件/61.cpp)
 </details>
+<details>
+<summary>
+
+### 🆗核心编程结课</summary>
+
+* [职工管理系统](https://github.com/EasyMoney12138/Cpp/tree/main/c%2B%2B%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B/%E8%81%8C%E5%B7%A5%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
+</details>
